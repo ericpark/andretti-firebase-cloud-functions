@@ -1,0 +1,14 @@
+{
+  "functions": [
+    {
+      "source": "get_waivers_by_location",
+      "codebase": "get_waivers_by_location",
+      "ignore": [
+        "venv",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ]
+    }
+  ]
+}
